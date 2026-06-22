@@ -119,3 +119,31 @@ Review Multi-Factor Authentication (MFA) settings within Microsoft Entra ID and 
 - Authentication Security
 - Microsoft Entra ID
 - IAM Administration
+
+
+## Conditional Access
+
+### Objective
+
+Review Conditional Access capabilities within Microsoft Entra ID and explore policy-based access controls.
+
+### Activities Performed
+
+1. Accessed the Conditional Access management console.
+2. Reviewed policy creation workflows.
+3. Examined examples of access conditions and security controls.
+4. Explored Zero Trust security concepts.
+5. Identified licensing requirements for advanced Conditional Access policies.
+
+### Screenshot
+
+![Conditional Access Overview](screenshots/conditional_access_overview.png)
+
+### Skills Demonstrated
+
+- Conditional Access
+- Zero Trust Security
+- Identity Protection
+- Access Control
+- Microsoft Entra ID
+- Cloud Security
