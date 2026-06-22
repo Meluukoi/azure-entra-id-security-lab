@@ -67,3 +67,28 @@ Review Microsoft Entra ID audit logs to verify administrative actions.
 - Security Monitoring
 - IAM Monitoring
 - Administrative Activity Tracking
+
+## Sign-In Log Monitoring
+
+### Objective
+
+Review authentication activity within Microsoft Entra ID and analyze successful sign-in events.
+
+### Activities Reviewed
+
+- Successful User Authentication
+- Source IP Address Monitoring
+- Azure Portal Access
+- Sign-In Status Verification
+
+### Screenshot
+
+![Sign-In Logs](screenshots/sign_in_logs.png)
+
+### Skills Demonstrated
+
+- Authentication Monitoring
+- User Activity Analysis
+- Identity Monitoring
+- Security Operations
+- Microsoft Entra ID
