@@ -92,3 +92,30 @@ Review authentication activity within Microsoft Entra ID and analyze successful 
 - Identity Monitoring
 - Security Operations
 - Microsoft Entra ID
+
+
+## Multi-Factor Authentication (MFA)
+
+### Objective
+
+Review Multi-Factor Authentication (MFA) settings within Microsoft Entra ID and evaluate authentication security controls.
+
+### Activities Performed
+
+1. Accessed the Per-User MFA management console.
+2. Reviewed user MFA status.
+3. Examined MFA enforcement options.
+4. Evaluated available authentication security controls.
+
+### Screenshot
+
+![MFA Configuration](screenshots/mfa_configuration.png)
+
+### Skills Demonstrated
+
+- Multi-Factor Authentication (MFA)
+- Identity Security
+- Access Control
+- Authentication Security
+- Microsoft Entra ID
+- IAM Administration
